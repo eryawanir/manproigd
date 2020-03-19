@@ -1,4 +1,4 @@
-# Aplikasi Rumah Sakit - Management Projek
+# Aplikasi Rumah Sakit - Management !!!!Projek MODUL IGD!!!!
 Aplikasi ini dibuat oleh beberapa kelompok menggunakan framework CodeIgniter.
 
 # Kebutuhan sebelum menjalankan Aplikasi
@@ -9,7 +9,7 @@ Aplikasi ini dibuat oleh beberapa kelompok menggunakan framework CodeIgniter.
 
 # Bagaimana cara menggunakannya ?
 1. Clone projek git ini kedalam folder htdocs ```"C://xampp/htdocs"``` kemudian buka terminal & pastikan anda sedang aktif didalam direktori ```"C://xampp/htdocs"```
-	- Ketikan perintah ==> ```git clone https://github.com/aldialhafidzi/manpro-rs.git```
+	- Ketikan perintah ==> ```git clone https://github.com/aldialhafidzi/manproigd.git```
 2. Jika projek sudah berhasil diclone maka akan muncul folder baru namanya ***manpro-rs***. Masuk kedalam folder projek "C://xampp/htdocs/manpro-rs" dengan cara :
 	- Ketikan perintah ==> ```cd manpro-rs ```
 3. Buka terminal & pastikan anda sedang aktif didalam direktori "C://xampp/htdocs/manpro-rs"
@@ -29,14 +29,7 @@ Aplikasi ini dibuat oleh beberapa kelompok menggunakan framework CodeIgniter.
 	***Membuat Data Palsu***
 	- Ketikan perintah ==> ``` php index.php tools seed RolesSeeder```
 	- Ketikan perintah ==> ``` php index.php tools seed UsersSeeder```
-	- Ketikan perintah ==> ``` php index.php tools seed SpecializationSeeder ```
-	- Ketikan perintah ==> ``` php index.php tools seed PoliklinikSeeder ```
-	- Ketikan perintah ==> ``` php index.php tools seed DokterSeeder ```
-	- Ketikan perintah ==> ``` php index.php tools seed ObatSeeder ```
-	- Ketikan perintah ==> ``` php index.php tools seed PasienSeeder ```
-	- Ketikan perintah ==> ``` php index.php tools seed PenyakitSeeder ```
-	- Ketikan perintah ==> ``` php index.php tools seed RuanganSeeder ```
-	- Ketikan perintah ==> ``` php index.php tools seed TindakanSeeder ```
+
 	
 7. Lalu buka dibrowser anda :
 	- Home Page 		: http://localhost/manpro-rs/
