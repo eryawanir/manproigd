@@ -33,7 +33,7 @@
 
 	
 7. Lalu buka dibrowser anda :
-	- Admin Login Page	: http://localhost/manpro-rs/admin/login
+	- Admin Login Page	: http://localhost/manproigd/admin/login
 	
 8. Test login :
 
